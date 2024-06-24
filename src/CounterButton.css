@@ -1,0 +1,26 @@
+.CounterButton {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .CounterValue {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .Button {
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    background-color: #61dafb;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    outline: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .Button:hover {
+    background-color: #4da8da;
+  }
+  
